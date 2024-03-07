@@ -1,2 +1,4 @@
-# test-1
-Test NPM package
+# Test NPM package
+- Add myFunc
+- Fix myFunc
+- Test GH workflow

@@ -1,0 +1,22 @@
+{
+  "name": "@ndragun92/test-1",
+  "version": "1.0.0",
+  "description": "Test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndragun92/test-1.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Nemanja Dragun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndragun92/test-1/issues"
+  },
+  "homepage": "https://github.com/ndragun92/test-1#readme"
+}
